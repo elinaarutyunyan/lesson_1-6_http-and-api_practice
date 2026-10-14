@@ -20,7 +20,21 @@
       "email": "elina@example.com",
       "topic": "Городская мастерская",
       "createdAt": "2026-10-10T09:45:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Элина Арутюнян",
+      "email": "elina@example.com",
+      "topic": "Городская мастерская",
+      "createdAt": "2026-10-10T09:45:00.000Z"
+    },
+    {
+      "name": "Мария",
+      "email": "maria@example.com",
+      "topic": "Городская мастерская",
+      "createdAt": "2026-10-14T08:47:17.732Z",
+      "id": "IfOF_CwQ6tQ"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
-
